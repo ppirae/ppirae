@@ -1,64 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=HyeongRae%20Jo%20&fontSize=60)
+### 조형래 · Backend Engineer
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ppirae">
+비즈니스의 병목을 찾아 성능을 개선하고, 낡은 레거시를 안정적인 구조로 바꿉니다.
 
-#### 안녕하세요.
-#### 백엔드 개발자 조형래입니다.
-#### 100번 같은 질문에도 친절하게 대답합니다.
-#### 다양한 문제 상황에서도 사용자 중심적인 해결책을 고민하는 개발자입니다.
-#### 동료들과의 원활한 소통을 통해 함께 성장하며 좋은 서비스를 만들어가는 것에 가치를 둡니다.
-
-[😊 기술 블로그](https://ppirae.tistory.com/) &nbsp;|&nbsp; [📄 이력서](https://ppirae.github.io)
+[이력서](https://ppirae.github.io) · [기술 블로그](https://ppirae.tistory.com) · <whgudfo77@naver.com>
 
 <br>
 
-## 📚 경력
+#### 하는 일
 
-- **Woongjin Thinkbig** (연구원, 2023.08 ~ ing)
-   <br>- **북클럽서비스개발팀**
-   <br>- 북클럽 3.0 백엔드 구조 개선 및 도서관 서비스 신규 구축
-   <br>- 집합형 회원 권한 자동 동기화 시스템 설계 및 개발
-   <br>- 기존 20여 개 서비스 운영 및 성능 개선
-- **Woongjin Thinkbig** (인턴, 2023.02 ~ 2023.07)
-   <br>- **독서학습플랫폼**
-   <br>- 도서 전문 시스템 프로세스 간소화
+**웅진씽크빅** · 백엔드개발팀 연구원 · 2023.08 ~ 현재
 
-## 📖 교육 & 활동
+- **북클럽 3.0 구조 개선 및 도서관 서비스 신규 구축** — 멀티모듈로 재설계하고 AES-GCM·RSA-OAEP 기반 자체 DRM을 구현. API 쿼리 호출 **40% 감소**
+- **공부방 회원 계정 자동 발급 시스템** — 10년 넘은 Stored Procedure를 MyBatis로 걷어내고 Spring Batch로 재설계. 24만 건 처리 **8배 단축** (25~30분)
+- **레거시 20여 개 서비스 운영** — 병목 쿼리 최적화로 응답 시간 **40초 → 5초 미만**. 기술 위키 연 50건 이상 작성
 
-- **Udemy Starters 2기** (2022.10 ~ 2023.01)
-- **서경대학교 컴퓨터과학과 학사** (2017.03 ~ 2023.09)
+**웅진씽크빅** · 독서학습플랫폼 인턴 · 2023.02 ~ 2023.07
+
+- 파일 전송 자동화로 도서 변환 프로세스 8단계 → 5단계 축소
 
 <br>
 
-## :books: STACKS
+#### 기술
 
----
+`Java 8/11/17/21` `Spring Boot` `Spring Batch` `JPA` `MyBatis`
+`Oracle` `MySQL` `MariaDB` `PostgreSQL` `Redis` `AWS`
 
-### **Back-End**
+정보처리기사 · SQLD · ADsP · AICE BASIC
 
-**Language & Framework**<br>
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=OpenJDK&logoColor=FFFFFF&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
-![Spring Batch](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Batch&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
+<br>
 
-**ORM & Data Access**<br>
-![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=Hibernate&logoColor=FFFFFF&label=)
-![MyBatis](https://img.shields.io/static/v1?style=for-the-badge&message=MyBatis&color=DC382D&logo=&logoColor=FFFFFF&label=)
+#### 만든 것
 
----
+**[tokengrass](https://github.com/ppirae/tokengrass)** — AI 코딩 토큰 사용량을 잔디 히트맵으로 그립니다. 진짜 컨트리뷰션 그래프는 건드리지 않습니다.
 
-### **DATABASE**
-
-![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
-
----
-
-### **Infra**
-
-![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-
----
+![AI usage](https://raw.githubusercontent.com/ppirae/ai-usage/main/card.svg)
