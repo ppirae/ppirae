@@ -33,4 +33,4 @@
 
 **[tokengrass](https://github.com/ppirae/tokengrass)** — AI 코딩 토큰 사용량을 잔디 히트맵으로 그립니다. 진짜 컨트리뷰션 그래프는 건드리지 않습니다.
 
-![AI usage](https://raw.githubusercontent.com/ppirae/ai-usage/main/card.svg)
+<a href="https://ppirae.github.io/ai-usage/"><img src="https://raw.githubusercontent.com/ppirae/ai-usage/main/card.svg" alt="AI coding activity" title="날짜별 사용량은 클릭해서 확인"></a>
