@@ -2,7 +2,7 @@
 
 비즈니스의 병목을 찾아 성능을 개선하고, 낡은 레거시를 안정적인 구조로 바꿉니다.
 
-[이력서](https://ppirae.github.io) · [기술 블로그](https://ppirae.tistory.com) · <whgudfo77@naver.com>
+[이력서](https://ppirae.github.io) · <whgudfo77@naver.com>
 
 <br>
 
