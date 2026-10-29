@@ -23,7 +23,6 @@
 
 `Java 8~21` `Spring Boot` `Spring Batch` `JPA` `MyBatis` `Maven`
 `Oracle` `MariaDB` `PostgreSQL` `Redis`
-`NCP Object Storage` `SK CDN` `Scouter`
 
 정보처리기사 · SQLD · ADsP · AICE BASIC
 
