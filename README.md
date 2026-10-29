@@ -1,6 +1,6 @@
-### 조형래 · Backend Engineer
+### 조형래 · Backend Developer
 
-비즈니스의 병목을 찾아 성능을 개선하고, 낡은 레거시를 안정적인 구조로 바꿉니다.
+오래되고 복잡해서 아무도 손대지 않던 레거시를 직접 맡아, 측정으로 원인을 찾고 운영 영향 없이 검증한 뒤 바꿉니다.
 
 [이력서](https://ppirae.github.io) · <whgudfo77@naver.com>
 
@@ -10,20 +10,20 @@
 
 **웅진씽크빅** · 백엔드개발팀 연구원 · 2023.08 ~ 현재
 
-- **북클럽 3.0 구조 개선 및 도서관 서비스 신규 구축** — 멀티모듈로 재설계하고 AES-GCM·RSA-OAEP 기반 자체 DRM을 구현. API 쿼리 호출 **40% 감소**
-- **공부방 회원 계정 자동 발급 시스템** — 10년 넘은 Stored Procedure를 MyBatis로 걷어내고 Spring Batch로 재설계. 24만 건 처리 **8배 단축** (25~30분)
-- **레거시 20여 개 서비스 운영** — 병목 쿼리 최적화로 응답 시간 **40초 → 5초 미만**. 기술 위키 연 50건 이상 작성
+- **웅진북클럽 3.0 백엔드 전면 개편** — 공급사 폐업으로 끊긴 외부 DRM을 AES-GCM·RSA-OAEP 기반 자체 암호화로 교체, NCP·SK CDN 업로드·캐시 퍼지 API 구현
+- **학원·공부방 학습패드 로그인/권한 시스템 재구축** — 10년 된 Stored Procedure를 SQL 벌크 처리와 Spring Batch로 재구축. 24만 건 처리 **약 4시간(추정) → 20~30분**
+- **도서 통계 API 응답 지연 개선** — 실행 계획 분석으로 쿼리 재설계, 최악 케이스 **36초 → 9초 이내**
+- 20여 개 교육 콘텐츠 서비스 운영 · 기술 위키 연 50건 이상 작성
 
 **웅진씽크빅** · 독서학습플랫폼 인턴 · 2023.02 ~ 2023.07
-
-- 파일 전송 자동화로 도서 변환 프로세스 8단계 → 5단계 축소
 
 <br>
 
 #### 기술
 
 `Java 8/11/17/21` `Spring Boot` `Spring Batch` `JPA` `MyBatis`
-`Oracle` `MySQL` `MariaDB` `PostgreSQL` `Redis` `AWS`
+`Oracle` `MySQL` `MariaDB` `PostgreSQL` `Redis`
+`NCP Object Storage` `SK CDN` `Scouter`
 
 정보처리기사 · SQLD · ADsP · AICE BASIC
 
